@@ -12,13 +12,13 @@
     background: white;
 }
 ::-webkit-scrollbar-thumb {
-    background: linear-gradient(#95c0ff, #4f76f6);
+    background: linear-gradient(#6660ff, #6f6cc6);
     border-radius: 5px;
 }
 .hero{
     width: 100%;
     min-height: 100vh;
-    background: #1f2b37;
+    background: #181818;
     padding: 20px 0 30px;
 }
 .container{
@@ -40,7 +40,7 @@
 }
 
 .container button{
-    background: linear-gradient(#4f76f6, #95c0ff);
+    background: linear-gradient(#6660ff, #6f6cc6);
     padding: 12px 24px;
     border: none;
     outline: none;
@@ -59,7 +59,7 @@
     margin-right: 3px;
 }
 .container button:hover{
-    background: linear-gradient(#95c0ff, #4f76f6);
+    background: linear-gradient(#6f6cc6, #6660ff);
 }
 
 .input-box {
